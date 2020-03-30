@@ -26,4 +26,5 @@ Det var iallafall mycket som jag hade tänkt ha med men som inte gick för att j
 
 ## Filer
 I mappen BotFiles finns dataseten som jag för att göra boten.
+
 I mappen Chatbot finns min bot (BotFinal.py)
