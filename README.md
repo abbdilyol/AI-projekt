@@ -23,3 +23,7 @@ Resultatet är inte så bra men det är helt ok med tanke på allting som finns.
 Om jag hade hittad chatterbot metoden omedelbart skulle jag kunna spendera mer tid på att lära mig biblioteket samt kunna göra ett projekt som jag lite mer kontroll över än att bara kopiera. Jag tänkte till exempel ha med att min bot skulle kuna utföra matematiska beräkningar men jag han inte kolla på den funktionen helt och hållet. 
 
 Det var iallafall mycket som jag hade tänkt ha med men som inte gick för att jag spenderade 80% av min tid för att ta reda på hur jag skulle gå till väga. Trots att min bot inte är jättebra så är den ändå varierad och kan nästan konversera helt ok. 
+
+## Filer
+I mappen BotFiles finns dataseten som jag för att göra boten.
+I mappen Chatbot finns min bot (BotFinal.py)
