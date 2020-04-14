@@ -25,6 +25,6 @@ Om jag hade hittad chatterbot metoden omedelbart skulle jag kunna spendera mer t
 Det var iallafall mycket som jag hade tänkt ha med men som inte gick för att jag spenderade 80% av min tid för att ta reda på hur jag skulle gå till väga. Trots att min bot inte är jättebra så är den ändå varierad och kan nästan konversera helt ok. 
 
 ## Filer
-I mappen BotFiles finns dataseten som jag för att göra boten.
+I mappen BotFiles finns dataseten som jag använde för att göra boten.
 
 I mappen Chatbot finns min bot (BotFinal.py) samt filen (regions.py) som innehåller de delar av världen där jag hämtar tidzoner.
